@@ -2,17 +2,12 @@ class Solution {
     public int mostWordsFound(String[] sentences) {
         int maxlen = 0 ;
         for(String currsen : sentences){
-            int k = 1;
-        for(char c : currsen.toCharArray()){
-            if(c== ' '){
-                k++;
+            int currlen = currsen.split(" ").length;
+            if(currlen > maxlen){
+                maxlen = currlen;
             }
-
-        }
-        if(k > maxlen){
-            maxlen = k ;
-        }
         }
         return maxlen;
+           
     }
 }
