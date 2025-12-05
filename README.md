@@ -20,5 +20,14 @@ Java with DSA
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
