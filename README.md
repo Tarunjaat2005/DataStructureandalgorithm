@@ -9,6 +9,7 @@ Java with DSA
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1512-number-of-good-pairs](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1512-number-of-good-pairs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Java with DSA
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1512-number-of-good-pairs](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1512-number-of-good-pairs) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,4 +42,9 @@ Java with DSA
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1512-number-of-good-pairs) |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/3039-apply-operations-to-make-string-empty) |
+## Sorting
+|  |
+| ------- |
+| [3039-apply-operations-to-make-string-empty](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/3039-apply-operations-to-make-string-empty) |
 <!---LeetCode Topics End-->
