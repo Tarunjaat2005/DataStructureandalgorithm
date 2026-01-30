@@ -47,4 +47,12 @@ Java with DSA
 |  |
 | ------- |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/3039-apply-operations-to-make-string-empty) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
