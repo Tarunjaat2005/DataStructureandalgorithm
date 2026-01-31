@@ -28,6 +28,7 @@ Java with DSA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
 | [1512-number-of-good-pairs](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1512-number-of-good-pairs) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Sliding Window
@@ -50,11 +51,13 @@ Java with DSA
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
