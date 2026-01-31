@@ -53,6 +53,7 @@ Java with DSA
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -68,4 +69,8 @@ Java with DSA
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
