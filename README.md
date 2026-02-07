@@ -47,12 +47,14 @@ Java with DSA
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0876-middle-of-the-linked-list) |
@@ -60,6 +62,7 @@ Java with DSA
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
@@ -75,4 +78,12 @@ Java with DSA
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0707-design-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
