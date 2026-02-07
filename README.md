@@ -95,4 +95,9 @@ Java with DSA
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
