@@ -5,6 +5,7 @@ Java with DSA
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1512-number-of-good-pairs](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1512-number-of-good-pairs) |
@@ -88,4 +89,8 @@ Java with DSA
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
