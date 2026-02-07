@@ -57,6 +57,7 @@ Java with DSA
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0147-insertion-sort-list) |
@@ -69,6 +70,7 @@ Java with DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0160-intersection-of-two-linked-lists) |
