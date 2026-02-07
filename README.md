@@ -51,6 +51,7 @@ Java with DSA
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0707-design-linked-list) |
@@ -68,6 +69,7 @@ Java with DSA
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
