@@ -50,6 +50,7 @@ Java with DSA
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/3039-apply-operations-to-make-string-empty) |
 ## Linked List
@@ -57,6 +58,7 @@ Java with DSA
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
+| [0147-insertion-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
