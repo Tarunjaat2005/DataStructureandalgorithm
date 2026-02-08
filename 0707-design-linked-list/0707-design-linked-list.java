@@ -1,94 +1,80 @@
-class ListNode{
-    int val;
-    ListNode prev;
-    ListNode next;
-    public ListNode(int val){
-        this.val = val;
-        this.prev = null;
-        this.next = null;
-    }
-}
-
-
-
 class MyLinkedList {
-  ListNode left;
-  ListNode right;
-
-
+    class Node{
+        int data;
+        Node next;
+        Node(int data){
+            this.data = data;
+            this.next = null;
+        }
+    }
+    Node head;
+    int size;
 
     public MyLinkedList() {
-
-        left = new ListNode(0);
-        right  = new ListNode(0);
-        left.next = right;
-        right.prev = left;
+        head = new Node(0);
+        size = 0;
+        
     }
     
     public int get(int index) {
-        ListNode cur = left.next;
-        while(cur != null && index > 0){
-            cur = cur.next;
-            index = index -1;
+        if(index < 0 || index >= size){
+            return -1;
         }
-        if(cur != null && cur != right && index == 0){
-            return cur.val;
+        Node curr = head.next;
+
+        for(int i = 0 ; i  < index ; i++){
+            curr = curr.next;
         }
-        return -1;
+        return curr.data;
         
     }
     
     public void addAtHead(int val) {
-        ListNode node = new ListNode(val);
-        ListNode next = left.next;
-        ListNode prev = left;
-        prev.next = node;
-        next.prev = node;
-        node.next = next;
-        node.prev = prev;
-        
+        Node curr = new Node(val);
+        curr.next = head.next;
+        head.next = curr;
+        size++;
+
     }
     
     public void addAtTail(int val) {
-        ListNode node = new ListNode(val);
-        ListNode next = right;
-        ListNode prev = right.prev;
-        prev.next = node;
-        next.prev = node;
-        node.next = next;
-        node.prev = prev;
-        
+        Node tail = new Node(val);
+        Node curr = head;
+        while(curr.next != null){
+            curr = curr.next;
+        }
+        curr.next = tail;
+        size++;
     }
     
     public void addAtIndex(int index, int val) {
-        ListNode cur = left.next;
-        while(cur != null && index > 0){
-            cur = cur.next;
-            index--;
+        if(index < 0 || index > size){
+            return;
         }
-        if(cur != null && index == 0){
-        ListNode node = new ListNode(val);
-        ListNode next = cur;
-        ListNode prev = cur.prev;
-        prev.next = node;
-        next.prev = node;
-        node.next = next;
-        node.prev = prev;
+        Node curr = new Node(val);
+        Node prev= head;
+        for(int i = 0 ; i < index ; i++){
+            prev= prev.next;
         }
+        curr.next = prev.next;
+        prev.next = curr;
+        size++;
+
     }
     
     public void deleteAtIndex(int index) {
-        ListNode cur = left.next;
-        while(cur != null && index  > 0){
-            cur = cur.next;
-            index--;
+        if(index < 0 || index >= size){
+            return;
         }
-        if(cur != null && cur != right && index == 0){
-            ListNode next = cur.next;
-            ListNode prev = cur.prev;
-            next.prev = prev;
-            prev.next = next;
+
+        Node curr = head;
+        
+        for(int i = 0 ; i < index ; i++){
+            curr = curr.next;
         }
+        curr.next = curr.next.next;
+        size--;
+
     }
 }
 
