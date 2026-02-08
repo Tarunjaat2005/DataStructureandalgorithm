@@ -23,7 +23,7 @@ class Solution {
         int temp = left.val;
         left.val = right.val;
         right.val = temp;
-
+        System.gc();
         return head;
     }
 }
