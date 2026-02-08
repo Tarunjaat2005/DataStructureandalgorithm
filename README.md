@@ -67,6 +67,7 @@ Java with DSA
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Java with DSA
 | [0160-intersection-of-two-linked-lists](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
