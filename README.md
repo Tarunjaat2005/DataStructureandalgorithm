@@ -19,6 +19,7 @@ Java with DSA
 | [0032-longest-valid-parentheses](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Java with DSA
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1512-number-of-good-pairs](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -93,6 +95,7 @@ Java with DSA
 | [0021-merge-two-sorted-lists](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -114,4 +117,8 @@ Java with DSA
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
