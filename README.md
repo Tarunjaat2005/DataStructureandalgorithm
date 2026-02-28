@@ -28,6 +28,7 @@ Java with DSA
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0032-longest-valid-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ Java with DSA
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1512-number-of-good-pairs](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
