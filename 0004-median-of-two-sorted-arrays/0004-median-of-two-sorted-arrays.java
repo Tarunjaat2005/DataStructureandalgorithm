@@ -14,7 +14,7 @@ class Solution {
         Arrays.sort(merged);
         int total = merged.length;
         if(total %2 == 1){
-            return (double) merged[total/2];
+            return merged[total/2];
         }else{
             int mid1 = merged[total/2 - 1];
             int mid2 = merged[total/2];
