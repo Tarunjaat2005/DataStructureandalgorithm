@@ -5,6 +5,7 @@ Java with DSA
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -105,6 +106,7 @@ Java with DSA
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -113,6 +115,7 @@ Java with DSA
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0278-first-bad-version) |
 ## Interactive
