@@ -47,6 +47,7 @@ Java with DSA
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1071-greatest-common-divisor-of-strings) |
