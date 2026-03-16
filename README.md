@@ -5,6 +5,7 @@ Java with DSA
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@ Java with DSA
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0160-intersection-of-two-linked-lists) |
