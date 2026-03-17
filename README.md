@@ -7,6 +7,7 @@ Java with DSA
 | ------- |
 | [0001-two-sum](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -26,6 +27,7 @@ Java with DSA
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
 |  |
@@ -83,6 +85,7 @@ Java with DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0148-sort-list) |
