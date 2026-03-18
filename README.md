@@ -11,6 +11,7 @@ Java with DSA
 | [0035-search-insert-position](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0238-product-of-array-except-self](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0283-move-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/1512-number-of-good-pairs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -134,4 +135,8 @@ Java with DSA
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Tarunjaat2005/DataStructureandalgorithm/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
